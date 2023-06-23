@@ -1,0 +1,2 @@
+../Core/Src/demo_receiver.c:27:6:receiver	8	static
+../Core/Src/demo_receiver.c:47:6:HAL_GPIO_EXTI_Callback	16	static

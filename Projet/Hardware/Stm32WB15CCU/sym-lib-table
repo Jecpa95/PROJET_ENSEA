@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LD1117S50TR")(type "KiCad")(uri "/home/ese/Téléchargements/LIB_LD1117S50TR/LD1117S50TR/KiCad/LD1117S50TR.kicad_sym")(options "")(descr ""))
+  (lib (name "NX2016SA-32M-EXS00A-CS06465")(type "KiCad")(uri "/home/ese/Documents/Projet/Hardware/library/NX2016SA-32M-EXS00A-CS06465.kicad_sym")(options "")(descr ""))
+  (lib (name "NX2012SA-32_768K-STD-MUB-1")(type "KiCad")(uri "/home/ese/Documents/Projet/Hardware/library/NX2012SA-32_768K-STD-MUB-1.kicad_sym")(options "")(descr ""))
+  (lib (name "MLPF-WB55-01E3")(type "KiCad")(uri "/home/ese/Documents/Projet/Hardware/library/MLPF-WB55-01E3.kicad_sym")(options "")(descr ""))
+  (lib (name "LD39050PU33R")(type "KiCad")(uri "/home/ese/Documents/Projet/Hardware/library/LD39050PU33R.kicad_sym")(options "")(descr ""))
+)
